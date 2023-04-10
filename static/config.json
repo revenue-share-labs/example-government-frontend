@@ -1,0 +1,32 @@
+// {
+//     "data":{
+//         [
+//     [
+//         ethers.constants.AddressZero,
+//         1,
+//         [ethers.constants.AddressZero],
+//         [ethers.constants.AddressZero]
+//     ], 
+//     //init data для второго TimeLock'a
+//     [
+//         ethers.constants.AddressZero,
+//         1,
+//         [ethers.constants.AddressZero],
+//         [ethers.constants.AddressZero]
+//     ]], [
+//     // mint data для первого TimeLock'a
+//     [
+//         ethers.constants.AddressZero,
+//         0,
+//         10
+//     ], 
+//     // mint data для второго TimeLock'a
+//     [
+//         ethers.constants.AddressZero,
+//         0,
+//         10
+//     ], 
+//     //mint data для задеплоенного TimeLock'a
+//     ["asd.address",0,20]]
+//     }
+// }

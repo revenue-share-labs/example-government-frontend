@@ -1,0 +1,34 @@
+{
+    "deployData": {
+        "1": {
+            "minDelay": 3600,
+            "executors": [],
+            "proposers": []
+        },
+        "2": {
+            "minDelay": 123,
+            "executors": [],
+            "proposers": []
+        }
+    }, 
+    "mintData": {
+        "1": {
+            "to": "0x0000000000000000000000000000000000000000",
+            "index": 0,
+            "id": 0,
+            "amount": 1000
+        }, 
+        "2": {
+            "to": "0x0000000000000000000000000000000000000000",
+            "index": 1,
+            "id": 0,
+            "amount": 1000
+        },
+        "3": {
+            "to": "0x687FA78988BCfDBB8C3FECB9cE66672F7651EDe1",
+            "index": 0,
+            "id": 0,
+            "amount": 1000
+        }
+    }
+}
